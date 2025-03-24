@@ -1,7 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a Python and SQL integrated project 
-- 🌱 I’m currently learning how to integrate Python with SQL
-- 🤔 I’m looking for help with finding new exciting projects
+- 🔭 I’m currently working on creating games in Python to improve my coding abilities. I am working on Snake and will soon create a Flappybird inspired game.
+- 🌱 I am also searching for projects where I will integrate SQL and Python for data analysis. 
 <!--
 **JacobHoffstedt/JacobHoffstedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
